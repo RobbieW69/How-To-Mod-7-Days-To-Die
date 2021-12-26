@@ -11,4 +11,4 @@ Also if you run into a mod that _should_ be working but isn't, check the `ModInf
 
 ## Done
 You now know how to install mods!
-[Back to Main Menu](..//main/README.md)
+[Back to Main Menu](../../main/README.md)

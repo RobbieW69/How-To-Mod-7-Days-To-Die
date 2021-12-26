@@ -24,4 +24,4 @@ Visual Studio Code has alot you can do, as such it can be used right out the box
 You have all the prerequisites and know what you need to in order to get started!   
 Please head back to the main menu and continue to the next step!
 
-[Back to Main Menu](..//main/README.md)
+[Back to Main Menu](../../main/README.md)
