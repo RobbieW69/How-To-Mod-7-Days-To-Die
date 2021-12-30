@@ -4,6 +4,7 @@ There's a few things to know and obtain before you get started!
 ## Downloads
 You will need to download and install a zip file extraction tool, such as 7Zip or WinRar.
 + I personally use [WinRar](https://www.win-rar.com/fileadmin/winrar-versions/winrar/th/winrar-x64-602.exe).    
+
 Next you will need a Text Editor such as Notepad++ or Visual Studio Code.
 + I personally use and HIGHLY recommend [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win), it is light weight, versatile and overall a really good editor.
 ## Need To Know
