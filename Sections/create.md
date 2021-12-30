@@ -108,7 +108,7 @@ So now! All in total we know what the code does: It appends the three nodes to t
 
 ## Other Questions
 You probably have many other questions about `xpath` and `attributes` and Nodes and really just `xml` in general, and I can understand that.
-I'll try to address a few here, but before that I would read this [website](https://www.w3schools.com/xml/xml_xpath.asp) that goes over it more.
+I'll try to address a few here, but before that I would read this [website](https://www.w3schools.com/xml/xpath_intro.asp) that goes over it more.
 + 1: "How do I find the names of the other items?" Go read the `items.xml`.
 + 2: "I'm still confused, is there another way to learn?" Definitely check the link above.
 + 3: "I missed a step, is there a video I can watch?" Yes there are many, MaxFox has some great tutorial [videos](https://youtu.be/-GOjiyAaPS0).
