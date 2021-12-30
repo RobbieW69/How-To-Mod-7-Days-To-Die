@@ -6,7 +6,7 @@ Note: We will only be making server side XML mods.
 ## Navigation Links
 + [Step 1: Prerequisites](..//main/Sections/prerequisties.md)
 + [Step 2: How to Create Mods](..//main/Sections/create.md)
-+ [Step 3: How to Edit Mods](..//main/Sections/prerequisties.md)
++ [Step 3: How to Edit Mods](..//main/Sections/edit.md)
 + [Step 4: How To Install Mods](..//main/Sections/modInstall.md)
 ## Done!
 If you've made it this far, congrats, you now know how to install/create/edit mods for 7 Days to Die!   
