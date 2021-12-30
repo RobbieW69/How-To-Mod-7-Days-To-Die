@@ -34,9 +34,9 @@ We are going to make an example mod to show you how it's done.
 + Important: Any `.xml` file we are creating in the config is one that already exists by default in the game, the code we add to it will override the default one, but we have to name them the exact same also every `.xml` file we override must have:
 
 ```xml
-<configs>
-    <!-- All of our code goes here inside the configs braces -->
-</configs>
+<configs> <- This is the first line of the file.
+    
+</configs> <- This is the last line of the file.
 ```
 
 + Now in the `blocks.xml` inside the `<configs>` braces we are going to put:
