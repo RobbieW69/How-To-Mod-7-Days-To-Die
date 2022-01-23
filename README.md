@@ -16,4 +16,4 @@ If you've made it this far, congrats, you now know how to install/create/edit mo
 If you want to know anything or have questions you can reach out to me on discord; RobbieW#6655 (dont abuse it)
 ## Support
 If you are absolutely happy with what you learned here and would like to [Donate](https://streamlabs.com/robbiew1337/tip), from the bottom of my heart, Thankyou <3
-(on that note, if you do donate, please don't go overboard as I am just doing this to help teach people and would feel bad)
+(on that note, if you do donate, please don't go overboard as I am just doing this to help teach people and would feel bad haha)
