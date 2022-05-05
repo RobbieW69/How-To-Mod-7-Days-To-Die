@@ -66,7 +66,7 @@ Is whats known as a `comment`, it is basically something you write as a note to 
 ```xml 
 <append xpath="//block[@name='treeMaster']">
 ```
-Firstly, the `<append>` tag is a function in XML, a function is basically a command to do a predetermined task, the `append` task usually _adds_ to the end of a list of things,we'll get to that in a moment.    
+Firstly, the `<append>` tag is a function in XML, a function is basically a command to do a predetermined task, the `append` task _adds_ to the end of a list of things,we'll get to that in a moment.    
 
 Still on that line we also see `xpath="//block[@name='treeMaster']"`, 'xpath' is essentially another xml function that just looks for a specific thing in a specific directory.   
 
