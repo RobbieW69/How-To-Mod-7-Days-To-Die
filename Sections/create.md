@@ -119,5 +119,7 @@ Before coming straight to me, please attempt to find the answer and definitely f
 ## Done
 You have now made a mod! Please continue to the next step.
 
+Remember!!!: After you make or edit a mod, make sure the mod is already in the 7 Days to Die/Mods folder!
+
 [Back to Main Menu](../../main/README.md)
 
