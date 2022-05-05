@@ -11,7 +11,15 @@ You might have just downloaded a mod and realized its close but not _exactly_ ho
 ```
 Now change the `"foodHoney"` to `"vehicle4x4TruckPlaceable"`. I found that by looking in the `items.xml`.    
 Now change the `"0.25"` to `"1"`, making it a 100% chance to get it.    
-Now change the `"1,5"` to `"1,1"`, making it to where we could only get 1.
+Now change the `"1,5"` to `"1,1"`, making it to where we could only get 1.    
+   
+   
+   
+
+It should now look like: 
+```xml
+<drop event="Destroy" name="vehicle4x4TruckPlaceable" count="1,1" prob="1"/>
+```
 
 ## Done
 You have now edited the mod to drop a placeable Truck when you cut down any tree everytime.    
