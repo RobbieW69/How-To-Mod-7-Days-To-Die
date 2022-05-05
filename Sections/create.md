@@ -112,7 +112,7 @@ You probably have many other questions about `xpath` and `attributes` and Nodes 
 I'll try to address a few here, but before that I would read this [website](https://www.w3schools.com/xml/xpath_intro.asp) that goes over it more.
 + 1: "How do I find the names of the other items?" Go read the `items.xml`.
 + 2: "I'm still confused, is there another way to learn?" Definitely check the link above.
-+ 3: "I missed a step, is there a video I can watch?" Yes there are many, MaxFox has some great tutorial [videos](https://youtu.be/-GOjiyAaPS0).
++ 3: "I missed a step, is there a video I can watch?" Yes I made a video for this tutorial, you can view it [here](https://youtu.be/SVoVUxIhVRo). MaxFox also has some great tutorial [videos](https://youtu.be/-GOjiyAaPS0).
 + 4: "Can I message you if I need help?" Yes, of course don't abuse it, but I welcome anyone who wants to learn. (my discord is on the main page)
 Before coming straight to me, please attempt to find the answer and definitely follow all of the steps first, thankyou!
 
