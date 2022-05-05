@@ -9,8 +9,9 @@ Note: We will only be making server side XML mods.
 + [Step 3: How to Edit Mods](..//main/Sections/edit.md)
 + [Step 4: How To Install Mods](..//main/Sections/modInstall.md)     
  
-Here's a more in depth explanation of Xpath and XML modding.    
-[Xpath Basics](..//main/Sections/xpaths.md)
+I go through everything here in this video if you would like to watch and follow along: https://youtu.be/SVoVUxIhVRo
+ 
+To view a more in depth explanation of Xpath and XML modding: [Click Here](..//main/Sections/xpaths.md)
 ## Done!
 If you've made it this far, congrats, you now know how to install/create/edit mods for 7 Days to Die!   
 If you want to know anything or have questions you can reach out to me on discord; RobbieW#6655 (dont abuse it)
