@@ -1,5 +1,5 @@
 # Modding 7 Days To Die
-I will go through the basic steps for modding 7 Days To Die.   
+I will go through the basic steps for modding 7 Days To Die (For PC users, currently there is no way to mod Console).   
 We will go over how to add mods, create mods, and edit mods.   
 
 Note: We will only be making server side XML mods.
