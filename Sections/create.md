@@ -25,8 +25,9 @@ Now add:
 	</ModInfo>
 </xml>
 ```   
+To fast copy the text, hover your mouse in the code box above and at the top right you will see a button, click it to copy!   
 
-Of course you can edit the values you see.   
+Of course you can edit the values you see fit.   
 We are now ready to actually make the mod do something.
 ## Coding
 We are going to make an example mod to show you how it's done.
