@@ -68,13 +68,13 @@ Is whats known as a `comment`, it is basically something you write as a note to 
 ```
 Firstly, the `<append>` tag is a function in XML, a function is basically a command to do a predetermined task, the `append` task _adds_ to the end of a list of things,we'll get to that in a moment.    
 
-Still on that line we also see `xpath="//block[@name='treeMaster']"`, 'xpath' is essentially another xml function that just looks for a specific thing in a specific directory.   
+Still on that line we also see `xpath="//block[@name='treeMaster']"`, 'xpath' is essentially another xml function that just looks for a specific thing in a specific directory. It finds a Path in XMl.      
 
 The `xpath=` will always be followed by double quotes, whats on this inside is the path or node.    
 
 Next we have the `//`, these slashes like this are also like a function, that function is to jump into the file we are in and go through all of the different `braces` that look like '<>', anything inside these braces is another Node, the `//` looks through EVERY node until it finds one called `block`.    
 
-So now we are at the `[@name='treeMaster']` part, the square brackets you should think of as `[Find a specific thing]`.   
+So now we are at the `[@name='treeMaster']` part, the square brackets you should think of as `[Point to a specific thing]`.   
 
 Inside this bracket we have `@name='treeMaster'`, so, essentially it is looking for a `block` that has the name of `treeMaster`, all trees are connected to this `treeMaster` block.
 
