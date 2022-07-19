@@ -48,7 +48,7 @@ xpath="//book/@category" <!-- Selects the 'category' attribute -->
 Functions are similar to expressions in the sense that they are preprogrammed to do something, using the different functions is in relation to what you are trying to do.
 For example if you wanted to find a book node where the category is cooking and not cleaning it would like this.
 ```xml
-xpath="//book[@category='cooking' and not(@category='cooking')]"
+xpath="//book[@category='cooking' and not(@category='cleaning')]"
 ```
 In this example the function is `not()` which determines if the things inside are not equal. The `and` is an operator.
 ## Commands in Xpath
