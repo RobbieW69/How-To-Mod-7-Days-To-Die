@@ -24,5 +24,5 @@ It should now look like:
 ## Done
 You have now edited the mod to drop a placeable Truck when you cut down any tree everytime.    
 
-Remember we don't need to save since we have Autosave on, you can now go enjoy your truck dropping trees! haha
+Remember we don't need to save since we have Autosave on, you can now go enjoy your truck dropping trees! haha     
 [Back to Main Menu](../../main/README.md)
