@@ -2,7 +2,7 @@
 You might have just downloaded a mod and realized its close but not _exactly_ how you would like it, that happens to all of us, let's go through and edit a mod.
 ## Editing the Mod
 + Find the mod, in this example we'll use the mod we created in the last step called `MyMod`.
-+ It should still be in your Workspace, but if it is a mod you downloaded you will want to add the mod folder to your workspace, once you are done editing it and do not want it in your workspace you can just click on the folder and hit `Remove from Workspace`.
++ It should still be in your Workspace, but if it is a mod you downloaded you will want to add the mod folder to your workspace, once you are done editing it and do not want it in your workspace you can just right click on the folder and hit `Remove from Workspace`.
 + Now in your workspace go to the 'MyMod' folder and click on the 'Config' folder if it is not already open, now click on the `blocks.xml`.
 + You should now see the modded xml file, we are going to edit it to make the fallen tree drop a Truck instead of a jar of honey, and what chance that we could get it, remember this is just an example and I would not actually have this in my game, I just want to show you what you can do.
 + Find the line that says:
