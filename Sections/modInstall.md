@@ -2,6 +2,10 @@
 You might be completely new to this, and if so, thats okay! It will be very simple and straight forward.   
 ## Steps
 + Step 1: Navigate to your 7 Days to Die steam directory, if you don't know how to navigate to this folder, open Steam, Right click on 7 Days to Die in your Library, then click Manage, then click `Browse Local Files`, if there is no folder here named `Mods`, create one.     
+
+![](https://i.imgur.com/y7XL6WA.gif)
+
+
 + Step 2: Grab the mod folder from a mod you downloaded or created, and put it into the `Mods` folder in the 7DTD directory.
 + Your directory should now look similar to this:   
 ```c
