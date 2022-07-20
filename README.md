@@ -2,7 +2,7 @@
 I will go through the basic steps for modding 7 Days To Die (For PC users, currently there is no way to mod Console).   
 We will go over how to add mods, create mods, and edit mods.   
 
-Note: We will only be making server side XML mods.
+Note: We will only be making/editing server side XML mods.
 ## Navigation Links
 + [Step 1: Prerequisites](..//main/Sections/prerequisties.md)
 + [Step 2: How to Create Mods](..//main/Sections/create.md)
