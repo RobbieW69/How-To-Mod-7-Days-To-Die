@@ -92,3 +92,21 @@ Here's some examples using our bookstore once again:
 </append> 
 ```
 
+## Operators in XPATH
+Operators are operands like + or > ect, these operands tell the the code what to do.
+The operators we can currently use are;     
+| Operator  | Description | Example |
+| ------------- | ------------- | ------------- |
+| +  | Addition  | 2 + 2  |
+| -  | Subtraction  | 2 - 1  |
+| *  | Multiplication  | 3 * 3  |
+| =  | Determines whether two things are equal.  | @name='meleeToolTorch'  |
+| != | Determines whether two things are NOT equal.  | @name != 'treeStump'  |
+| <  | Less than | @count < '5'  |
+| <= | Less than or equal to | @count <= '5'  |
+| >  | Greater than | @count > '5' |
+| >= | Greater than or equal to | @count >= '5'  |
+| or | Selects one thing OR another | @name='meleeToolTorch' or @name='meleeToolFlashlight02' |
+| and | Selects something AND something else | @name='gunMGT1AK47' and @count='100' |
+| mod | The modulus (division remainder) | 5 mod 2 |
+
