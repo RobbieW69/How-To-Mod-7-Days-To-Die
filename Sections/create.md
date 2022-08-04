@@ -29,7 +29,7 @@ To fast copy the text, hover your mouse in the code box above and at the top rig
 
 Of course you can edit the values you see fit.   
 We are now ready to actually make the mod do something.
-## Coding
+# Coding
 We are going to make an example mod to show you how it's done.
 + Inside the workspace on vs code, under the 'MyMod' folder, click on the 'Config' folder, then right click and click `Add File`, name the file `blocks.xml`.   
 + Important: Any `.xml` file we are creating in the config is one that already exists by default in the game, the code we add to it will override the default one, but we have to name them the exact same also every `.xml` file we override must have:
@@ -54,7 +54,7 @@ What does this code do? Well this code finds every tree and adds the chance for 
 
 `This looks confusing and I don't understand any of it.`,  I completely get that, so let's explain it.
 
-## Coding Explanation
+# Coding Explanation
 The programming language used here is `XML`, which is a Markup Language. Markup languages such as XML and HTML are best described to help make code readable to humans and to computers.    
 So let's disect exactly what's going on here line by line:
 
@@ -107,7 +107,7 @@ The `tag` is basically just that to the game, it is something to Tag something e
 
 So now! All in total we know what the code does: It appends the three nodes to the 'treeMaster' block, which we know connects to all the trees in the game, making it so that when you are harvesting any tree you have chances for eggs and feathers to fall, and once the tree falls it will have a chance to drop honey! 
 
-## Other Questions
+# Other Questions
 You probably have many other questions about `xpath` and `attributes` and Nodes and really just `xml` in general, and I can understand that.
 I'll try to address a few here, but before that I would read this [website](https://www.w3schools.com/xml/xpath_intro.asp) that goes over it more.
 + 1: "How do I find the names of the other items?" Go read the `items.xml`.
@@ -116,7 +116,7 @@ I'll try to address a few here, but before that I would read this [website](http
 + 4: "Can I message you if I need help?" Yes, of course don't abuse it, but I welcome anyone who wants to learn. (my discord is on the main page)
 Before coming straight to me, please attempt to find the answer and definitely follow all of the steps first, thankyou!
 
-## Done
+# Done
 You have now made a mod! Please continue to the next step.
 
 Remember!!!: After you make or edit a mod, make sure the mod is already in the 7 Days to Die/Mods folder!
